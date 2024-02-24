@@ -1,0 +1,17 @@
+# ninja log v5
+4	489	7305160659958408	CMakeFiles/Lab4.dir/main.cpp.obj	c251925968869adc
+5	545	7305160344956258	CMakeFiles/Lab4.dir/account.cpp.obj	71dc0a9ba7ae412d
+490	573	7305160660763064	Lab4.exe	36237f9360e1d41
+4	521	7305164313266745	CMakeFiles/Lab4.dir/lab4.cpp.obj	2fcacfea9dc2864f
+8	525	7305164313317852	CMakeFiles/Lab4.dir/functions.cpp.obj	e3e9c8009dff28e3
+526	631	7305164314340638	Lab4.exe	c78bbb878440cbd4
+7	555	7305165906742507	CMakeFiles/Lab4.dir/functions.cpp.obj	e3e9c8009dff28e3
+3	563	7305165906823941	CMakeFiles/Lab4.dir/lab4.cpp.obj	2fcacfea9dc2864f
+564	654	7305165907696358	Lab4.exe	c78bbb878440cbd4
+3	489	7305167656411931	CMakeFiles/Lab4.dir/lab4.cpp.obj	2fcacfea9dc2864f
+8	498	7305167656494027	CMakeFiles/Lab4.dir/functions.cpp.obj	e3e9c8009dff28e3
+498	588	7305167657361296	Lab4.exe	c78bbb878440cbd4
+8	503	7305173346063929	CMakeFiles/Lab4.dir/functions.cpp.obj	e3e9c8009dff28e3
+12	519	7305173346228273	CMakeFiles/Lab4.dir/account.cpp.obj	71dc0a9ba7ae412d
+3	526	7305173346289657	CMakeFiles/Lab4.dir/lab4.cpp.obj	2fcacfea9dc2864f
+526	616	7305173347156671	Lab4.exe	c78bbb878440cbd4
